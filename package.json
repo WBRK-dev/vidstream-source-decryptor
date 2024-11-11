@@ -1,0 +1,17 @@
+{
+  "name": "vidstream-source-decryptor",
+  "version": "1.0.0",
+  "description": "## Contributing First off all, thank you for contributing to this repo!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.7.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
