@@ -1,7 +1,6 @@
 # vidstream-source-decryptor
 
 ## Contributing
-First off all, thank you for contributing to this repo!
 
 ### Commit messages
 ```
